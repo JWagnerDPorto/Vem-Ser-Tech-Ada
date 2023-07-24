@@ -1,2 +1,2 @@
-# Vem Ser Tech Ada
+# VemSerTechAda
 Curso online preparatorio
