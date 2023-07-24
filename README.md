@@ -1,2 +1,0 @@
-# VemSerTechAda
-Curso online preparatorio
